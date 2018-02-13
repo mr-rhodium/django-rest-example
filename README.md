@@ -1,5 +1,10 @@
-# django-rest-example
-====================
-This is an example RESTful to Django 
+##Django-rest-example
 
-:License: MIT
+This is an example RESTful to Django 
+-----------------------------------
+
+## Installation
+
+## Tests
+
+## License
